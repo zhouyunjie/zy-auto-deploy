@@ -1,6 +1,6 @@
 {
   "name": "zy-auto-deploy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "前端静态文件自动部署",
   "main": "./src/index.js",
   "bin": {
