@@ -48,6 +48,9 @@ npm run dpl
 
 如果是全局安装 在deploy.config.js目录下执行zy-dpl即可
 
+# 有问题可以到仓库提出来 我看到会解决一下
+`传送门`[zy-auto-deploy](https://github.com/zhouyunjie/zy-auto-deploy)
+
 
 # 注意
 
